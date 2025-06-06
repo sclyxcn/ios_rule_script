@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-05-27 02:15:23
+# UPDATED: 2025-06-06 09:17:16
 # DOMAIN: 97
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 121183
+# DOMAIN-SUFFIX: 121261
 # IP-CIDR: 11
 # IP-CIDR6: 4
-# TOTAL: 121304
+# TOTAL: 121382
 DOMAIN,analytics.strava.com
 DOMAIN,blzddist1-a.akamaihd.net
 DOMAIN,cdn.angruo.com
@@ -16707,6 +16707,7 @@ DOMAIN-SUFFIX,asthis.net
 DOMAIN-SUFFIX,astipaint.com
 DOMAIN-SUFFIX,astra-biotech.com
 DOMAIN-SUFFIX,astraintel.com
+DOMAIN-SUFFIX,astral-vector.com
 DOMAIN-SUFFIX,astroai-in.com
 DOMAIN-SUFFIX,astroaio.com
 DOMAIN-SUFFIX,astron.ac
@@ -32561,10 +32562,17 @@ DOMAIN-SUFFIX,deweier.com
 DOMAIN-SUFFIX,deweisi.net
 DOMAIN-SUFFIX,dewiqq.asia
 DOMAIN-SUFFIX,dewmobile.net
+DOMAIN-SUFFIX,dewu-inc.com
+DOMAIN-SUFFIX,dewu-inner.com
+DOMAIN-SUFFIX,dewu-inner.net
+DOMAIN-SUFFIX,dewu.co
 DOMAIN-SUFFIX,dewu.com
 DOMAIN-SUFFIX,dewu.net
 DOMAIN-SUFFIX,dewucdn.com
+DOMAIN-SUFFIX,dewuhd.com
+DOMAIN-SUFFIX,dewuhui.com
 DOMAIN-SUFFIX,dewumall.com
+DOMAIN-SUFFIX,dewuyouhui.com
 DOMAIN-SUFFIX,dewx.net
 DOMAIN-SUFFIX,dexejhyxh.com
 DOMAIN-SUFFIX,dexian.mobi
@@ -34816,6 +34824,7 @@ DOMAIN-SUFFIX,du-hope.com
 DOMAIN-SUFFIX,du-xiaomai.com
 DOMAIN-SUFFIX,du7.com
 DOMAIN-SUFFIX,du8.com
+DOMAIN-SUFFIX,du8.ltd
 DOMAIN-SUFFIX,dualaid.com
 DOMAIN-SUFFIX,dualspace.com
 DOMAIN-SUFFIX,dualspacetech.com
@@ -35154,6 +35163,7 @@ DOMAIN-SUFFIX,dvrdydns.com
 DOMAIN-SUFFIX,dvsadive.com
 DOMAIN-SUFFIX,dvvvs.com
 DOMAIN-SUFFIX,dw-microbiology.com
+DOMAIN-SUFFIX,dw2.co
 DOMAIN-SUFFIX,dw4.co
 DOMAIN-SUFFIX,dwbxg.com
 DOMAIN-SUFFIX,dwdds.com
@@ -35161,6 +35171,7 @@ DOMAIN-SUFFIX,dwforging.com
 DOMAIN-SUFFIX,dwgbj.com
 DOMAIN-SUFFIX,dwgszc.com
 DOMAIN-SUFFIX,dwgwatch.com
+DOMAIN-SUFFIX,dwhhd.com
 DOMAIN-SUFFIX,dwhub.net
 DOMAIN-SUFFIX,dwhut.com
 DOMAIN-SUFFIX,dwidc.com
@@ -39985,7 +39996,64 @@ DOMAIN-SUFFIX,frostchina.com
 DOMAIN-SUFFIX,frostwell.cc
 DOMAIN-SUFFIX,frostwell.net
 DOMAIN-SUFFIX,frostwing98.com
+DOMAIN-SUFFIX,frp-act.com
+DOMAIN-SUFFIX,frp-air.com
+DOMAIN-SUFFIX,frp-all.com
+DOMAIN-SUFFIX,frp-any.com
+DOMAIN-SUFFIX,frp-arm.com
+DOMAIN-SUFFIX,frp-art.com
+DOMAIN-SUFFIX,frp-bag.com
+DOMAIN-SUFFIX,frp-bar.com
+DOMAIN-SUFFIX,frp-bid.com
+DOMAIN-SUFFIX,frp-box.com
+DOMAIN-SUFFIX,frp-boy.com
+DOMAIN-SUFFIX,frp-bus.com
+DOMAIN-SUFFIX,frp-car.com
 DOMAIN-SUFFIX,frp-china.net
+DOMAIN-SUFFIX,frp-dad.com
+DOMAIN-SUFFIX,frp-dog.com
+DOMAIN-SUFFIX,frp-dry.com
+DOMAIN-SUFFIX,frp-egg.com
+DOMAIN-SUFFIX,frp-end.com
+DOMAIN-SUFFIX,frp-era.com
+DOMAIN-SUFFIX,frp-fan.com
+DOMAIN-SUFFIX,frp-fee.com
+DOMAIN-SUFFIX,frp-fog.com
+DOMAIN-SUFFIX,frp-fox.com
+DOMAIN-SUFFIX,frp-fun.com
+DOMAIN-SUFFIX,frp-gap.com
+DOMAIN-SUFFIX,frp-gas.com
+DOMAIN-SUFFIX,frp-gym.com
+DOMAIN-SUFFIX,frp-hat.com
+DOMAIN-SUFFIX,frp-hen.com
+DOMAIN-SUFFIX,frp-hip.com
+DOMAIN-SUFFIX,frp-hub.com
+DOMAIN-SUFFIX,frp-ice.com
+DOMAIN-SUFFIX,frp-key.com
+DOMAIN-SUFFIX,frp-kit.com
+DOMAIN-SUFFIX,frp-lab.com
+DOMAIN-SUFFIX,frp-leg.com
+DOMAIN-SUFFIX,frp-mad.com
+DOMAIN-SUFFIX,frp-man.com
+DOMAIN-SUFFIX,frp-mix.com
+DOMAIN-SUFFIX,frp-mom.com
+DOMAIN-SUFFIX,frp-net.com
+DOMAIN-SUFFIX,frp-now.com
+DOMAIN-SUFFIX,frp-nut.com
+DOMAIN-SUFFIX,frp-oak.com
+DOMAIN-SUFFIX,frp-off.com
+DOMAIN-SUFFIX,frp-oil.com
+DOMAIN-SUFFIX,frp-one.com
+DOMAIN-SUFFIX,frp-own.com
+DOMAIN-SUFFIX,frp-pen.com
+DOMAIN-SUFFIX,frp-put.com
+DOMAIN-SUFFIX,frp-rib.com
+DOMAIN-SUFFIX,frp-rug.com
+DOMAIN-SUFFIX,frp-run.com
+DOMAIN-SUFFIX,frp-say.com
+DOMAIN-SUFFIX,frp-sea.com
+DOMAIN-SUFFIX,frp-shy.com
+DOMAIN-SUFFIX,frp-six.com
 DOMAIN-SUFFIX,frpapp.com
 DOMAIN-SUFFIX,frt.ltd
 DOMAIN-SUFFIX,frtgraphite.com
@@ -42493,6 +42561,8 @@ DOMAIN-SUFFIX,giexya.com
 DOMAIN-SUFFIX,gif5.net
 DOMAIN-SUFFIX,giffox.com
 DOMAIN-SUFFIX,gifhome.com
+DOMAIN-SUFFIX,giftatdw.com
+DOMAIN-SUFFIX,giftattoday.com
 DOMAIN-SUFFIX,giftres.com
 DOMAIN-SUFFIX,giftsbeijing.com
 DOMAIN-SUFFIX,gifu-pr.com
@@ -78845,6 +78915,7 @@ DOMAIN-SUFFIX,pandaminer.com
 DOMAIN-SUFFIX,pandapaint.net
 DOMAIN-SUFFIX,pandara.xyz
 DOMAIN-SUFFIX,pandaremit.com
+DOMAIN-SUFFIX,pandarzli.com
 DOMAIN-SUFFIX,pandateacher.com
 DOMAIN-SUFFIX,pandatv.com
 DOMAIN-SUFFIX,pandax.wiki
@@ -79387,6 +79458,7 @@ DOMAIN-SUFFIX,pengxinziyuan.com
 DOMAIN-SUFFIX,pengyaou.com
 DOMAIN-SUFFIX,pengyihotel.com
 DOMAIN-SUFFIX,pengyou.com
+DOMAIN-SUFFIX,pengyoudewu.com
 DOMAIN-SUFFIX,pengyoukan.com
 DOMAIN-SUFFIX,pengyuanled.com
 DOMAIN-SUFFIX,pengyucpa.com
@@ -80241,7 +80313,11 @@ DOMAIN-SUFFIX,poikm.com
 DOMAIN-SUFFIX,poinesttia.com
 DOMAIN-SUFFIX,point-memory.com
 DOMAIN-SUFFIX,poiuytw.com
+DOMAIN-SUFFIX,poizon-inner.com
+DOMAIN-SUFFIX,poizon-inner.net
+DOMAIN-SUFFIX,poizon-support.com
 DOMAIN-SUFFIX,poizon.com
+DOMAIN-SUFFIX,poizon.net
 DOMAIN-SUFFIX,poj.org
 DOMAIN-SUFFIX,pojianyunfu.com
 DOMAIN-SUFFIX,poke203.com
@@ -89213,6 +89289,7 @@ DOMAIN-SUFFIX,shizhanxia.com
 DOMAIN-SUFFIX,shizhihome.com
 DOMAIN-SUFFIX,shizhongruyi.com
 DOMAIN-SUFFIX,shizhuang-inc.com
+DOMAIN-SUFFIX,shizhuang-inc.net
 DOMAIN-SUFFIX,shizhuolin.com
 DOMAIN-SUFFIX,shizhuonet.com
 DOMAIN-SUFFIX,shj6789.com
@@ -104515,6 +104592,7 @@ DOMAIN-SUFFIX,womei.org
 DOMAIN-SUFFIX,womeifilm.com
 DOMAIN-SUFFIX,womeimenye.com
 DOMAIN-SUFFIX,women-heart.com
+DOMAIN-SUFFIX,womendedw.com
 DOMAIN-SUFFIX,womenjie.com
 DOMAIN-SUFFIX,wonadea.com
 DOMAIN-SUFFIX,wonder.wiki
