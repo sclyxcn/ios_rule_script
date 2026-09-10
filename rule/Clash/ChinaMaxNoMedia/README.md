@@ -12,19 +12,19 @@ ChinaMaxNoMedia规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2025-05-27 02:17:42
+最后更新时间：2026-09-10 04:23:08
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN | 256  | 
+| DOMAIN | 267  | 
 | DOMAIN-KEYWORD | 11  | 
-| DOMAIN-SUFFIX | 119578  | 
+| DOMAIN-SUFFIX | 110618  | 
 | IP-ASN | 1  | 
-| IP-CIDR | 8354  | 
-| IP-CIDR6 | 12839  | 
+| IP-CIDR | 8245  | 
+| IP-CIDR6 | 4212  | 
 | PROCESS-NAME | 14  | 
-| TOTAL | 141053  | 
+| TOTAL | 123368  | 
 
 
 ## Clash 
@@ -424,8 +424,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/cstnet6.txt
 - https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/drpeng.txt
 - https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/drpeng6.txt
-- https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/tietong.txt
-- https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/tietong6.txt
 - https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/unicom.txt
 - https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/unicom6.txt
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/WoLai.list
@@ -480,6 +478,8 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/BesTV.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/CETV.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/SMG.list
+- https://ruleset.isagood.day/alibaba.conf
+- https://ruleset.isagood.day/bilibili.conf
 - https://raw.githubusercontent.com/missuo/ASN-China/main/IP.China.list
 
 
